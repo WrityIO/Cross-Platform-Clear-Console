@@ -1,3 +1,3 @@
-# ClearConsole 
+# Cross-Platform-Clear-Console
 
- > Cross platform console clear for Node.js
+ > A Node.js module to clear console cross platform.
