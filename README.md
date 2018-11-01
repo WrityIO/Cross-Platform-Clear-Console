@@ -1,4 +1,4 @@
-<div align="center">
+<div>
  <img src="https://on.ahmda.ws/3493ca/c" alt="Cross-Platform-Clear-Console">
 </div>
 
